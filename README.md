@@ -1,6 +1,6 @@
 # Diffusion_based_Sparse_Subspace_Clustering-DSSC
 
-By [Qilin Li](https://scholar.google.com/citations?user=KpqM4F4AAAAJ&hl=en)
+By [Qilin Li](https://scholar.google.com/citations?user=KpqM4F4AAAAJ&hl=en), [Wanquan Liu](https://scholar.google.com.au/citations?user=V_2ImG0AAAAJ&hl=en), [Ling Li](https://scholar.google.com/citations?user=h28-FZgAAAAJ&hl=en)
 
 Curtin University.
 
@@ -10,16 +10,16 @@ DSSC starts with **L1-minimization** to seek a sparse affinity matrix and refine
 
 
 ### Usage
-Just run
-'''matlab
+There is a demo for the experiment of face images clustering
+```matlab
 demo_faceImage.m
-'''
+```
 
 ### Citation
 
 If you find the code is useful, please consider to cite:
 
-	@article{He2015,
+	@article{Li2018affinity,
 		author = {Qilin Li and Wanquan Liu and Ling Li},
 		title = {Affinity Learning via a Diffusion Process for Subspace Clustering},
 		journal = {Pattern Recognition},
