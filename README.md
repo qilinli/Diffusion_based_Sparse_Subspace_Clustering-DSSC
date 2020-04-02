@@ -19,10 +19,10 @@ demo_faceImage.m
 
 If you find the code is useful, please consider to cite:
 
-	@article{Li2018affinity,
-		author = {Qilin Li and Wanquan Liu and Ling Li},
-		title = {Affinity Learning via a Diffusion Process for Subspace Clustering},
-		journal = {Pattern Recognition},
-		year = {2018}
+	@article{li2019semi,
+  		title={Semi-supervised Learning on Graph with an Alternating Diffusion Process},
+  		author={Li, Qilin and An, Senjian and Li, Ling and Liu, Wanquan},
+  		journal={arXiv preprint arXiv:1902.06105},
+ 		 year={2019}
 	}
 
