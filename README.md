@@ -23,6 +23,6 @@ If you find the code is useful, please consider to cite:
   		title={Semi-supervised Learning on Graph with an Alternating Diffusion Process},
   		author={Li, Qilin and An, Senjian and Li, Ling and Liu, Wanquan},
   		journal={arXiv preprint arXiv:1902.06105},
- 		 year={2019}
+ 		year={2019}
 	}
 
