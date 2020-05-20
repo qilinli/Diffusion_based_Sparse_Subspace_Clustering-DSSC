@@ -17,12 +17,16 @@ demo_faceImage.m
 
 ### Citation
 
-If you find the code is useful, please consider to cite:
+If you find the code is useful, please consider to cite:  
 
-	@article{li2019semi,
-  		title={Semi-supervised Learning on Graph with an Alternating Diffusion Process},
-  		author={Li, Qilin and An, Senjian and Li, Ling and Liu, Wanquan},
-  		journal={arXiv preprint arXiv:1902.06105},
- 		year={2019}
-	}
+	@article{li2018affinity,
+ 		title={Affinity learning via a diffusion process for subspace clustering},  
+  		author={Li, Qilin and Liu, Wanquan and Li, Ling},  
+  		journal={Pattern Recognition},
+  		volume={84},
+  		pages={39--50},
+  		year={2018},
+  		publisher={Elsevier}
+		}
+
 
